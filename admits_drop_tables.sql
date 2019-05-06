@@ -1,0 +1,6 @@
+  DROP TABLE #AcAdm;
+  DROP TABLE #AcDisch;
+  DROP TABLE #AcAdm;
+  DROP TABLE #SubDisch;
+	DROP TABLE #indx;
+	DROP TABLE #AcAdmEMPI;
